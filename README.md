@@ -6,6 +6,10 @@ O Nex é um protótipo de assistente financeiro que conversa sobre uma base fict
 
 > **A IA explica. O sistema calcula. Os dados comprovam.**
 
+## 🎥 Demonstração em vídeo
+
+▶️ [Assistir à demonstração do Nex AI no YouTube](https://youtu.be/XUwo7ZZOi5c)
+
 ## 🎯 Objetivo
 Ajudar uma pessoa a compreender gastos, saldo, categorias, metas e informações financeiras sem inventar dados quando a informação não estiver disponível.
 
